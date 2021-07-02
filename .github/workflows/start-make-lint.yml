@@ -4,4 +4,4 @@ jobs:
   make-lint-start:
     runs-on: ubuntu-latest
     steps:
-      - run: make link
+      - run: make lint
