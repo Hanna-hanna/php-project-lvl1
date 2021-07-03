@@ -3,5 +3,6 @@
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 [![GitHub Action - Make Lint](https://github.com/Hanna-hanna/php-project-lvl1/workflows/start-make-lint/badge.svg)](https://github.com/Hanna-hanna/php-project-lvl1/actions)
 
-### Askinemas:
+### Askinemas
 [![asciicast](https://asciinema.org/a/UGknbv33owssMlA7dlYDojYSE.svg)](https://asciinema.org/a/UGknbv33owssMlA7dlYDojYSE)
+
