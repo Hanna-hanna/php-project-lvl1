@@ -7,12 +7,14 @@
     "description": "hexlet php-package",
     "bin": [
 	    "bin/brain-games",
-        "bin/brain-even"
+        "bin/brain-even",
+        "bin/brain-calc"
     ],
     "autoload": {
     	"files": [
             "src/Cli.php",
-            "src/BrainEven.php"
+            "src/BrainEven.php",
+            "src/Calc.php"
         ]
     },
     "require-dev": {
