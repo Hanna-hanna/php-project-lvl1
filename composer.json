@@ -10,7 +10,8 @@
         "bin/brain-even",
         "bin/brain-calc",
         "bin/brain-gcd",
-        "bin/brain-progression"
+        "bin/brain-progression",
+        "bin/brain-prime"
     ],
     "autoload": {
     	"files": [
@@ -18,7 +19,8 @@
             "src/BrainEven.php",
             "src/Calc.php",
             "src/Gcd.php",
-            "src/Prog.php"
+            "src/Prog.php",
+            "src/Isprime.php"
         ]
     },
     "require-dev": {
